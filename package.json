@@ -1,0 +1,19 @@
+{
+  "name": "angularjs-fullscreen",
+  "description": "An AngularJS directive that can put your DOM element into a HTML5 fullscreen mode",
+  "repository": "git://github.com/demisx/angularjs-fullscreen.git",
+  "devDependencies": {
+    "coffee-script": "~1.7.1",
+    "gulp": "^3.6.2",
+    "gulp-clean": "^0.2.4",
+    "gulp-coffee": "^1.4.1",
+    "gulp-util": "^2.2.14",
+    "gulp-watch": "~0.6.2",
+    "gulp-coffeelint": "^0.3.1",
+    "gulp-karma": "0.0.4",
+    "gulp-changed": "^0.2.1",
+    "gulp-filesize": "~0.0.6",
+    "gulp-uglify": "^0.3.0",
+    "gulp-concat": "^2.2.0"
+  }
+}
